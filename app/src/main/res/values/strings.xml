@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Data Penilaian Siswa: Praktikum UTS 1.1</string>
+
+    <string name="main_text_1">Data Penilaian</string>
+    <string name="main_text_2">Lihat Data Penilaian Berdasarkan Kelas</string>
+    <string name="main_text_3">
+        \n
+        Credit By :
+        \n\n
+        <b><a href="https://telegra.ph/daffaalam-06-06">Abiyyu Daffa\' Alam</a></b>
+        \n
+        XXXXXXXX
+        \n
+        Praktikum UTS Kelas XI Semester 1
+        \n
+        Jumat, 28 September 2018
+    </string>
+    <string name="main_text_xa">X.A</string>
+    <string name="main_text_xb">X.B</string>
+</resources>
